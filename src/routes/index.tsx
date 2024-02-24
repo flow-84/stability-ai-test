@@ -1,9 +1,9 @@
-import EmbedSpace from '../components/EmbedSpace';
+import HuggingFaceEmbed from '../components/HuggingFaceEmbed';
 
 const Home = () => {
   return (
     <div>
-      <EmbedSpace />
+      <HuggingFaceEmbed />
       {/* Weitere Inhalte der Startseite */}
     </div>
   );
